@@ -1,2 +1,2 @@
 # Ollie
-A deep learning toolbox to detect glaucoma automatically
+A deep learning toolbox to detect glaucoma
