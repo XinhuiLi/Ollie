@@ -11,11 +11,11 @@ The diagnose is based on a pre-trained deep learning model with >90% accuracy.
 
 
 <p align="center">
-  <img src="Pictures/Screenshot.jpg" width="600" alt="accessibility text">
+  <img src="Pictures/GUI.jpg" width="600" alt="accessibility text">
 </p>
 
 
-Contributor: [Yannan Chen](https://github.com/Yannan-Chen)
+Contributors: [Yannan Chen](https://github.com/Yannan-Chen), Xinhui Li
 
 ## Reference
 1. AJ Geiger (2020). Build a Modern Dashboard Today (https://www.mathworks.com/matlabcentral/fileexchange/65073-build-a-modern-dashboard-today), MATLAB Central File Exchange. Retrieved July 31, 2020.
